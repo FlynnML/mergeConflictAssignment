@@ -1,3 +1,3 @@
 # mergeConflictAssignment
 SoftDes Practice
-n = 4
+m = 4
